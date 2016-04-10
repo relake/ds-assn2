@@ -1,0 +1,8 @@
+"DONOR,1,George, Washington,gwashing@mtvernon.com,202-123-4567,"
+"CASH,ADD,100001,1,Payroll deduction from Continental Army,100.00,7/4/1776,Y,1001,"
+"CASH,ADD,100003,1,Payroll deduction from Continental Army,100.00,7/5/1776,Y,99,"
+"PROPERTY,ADD,100002,1,Cherry tree axe,100.0,07/04/2015,Y,N,"
+"DONOR,3,Thomas, Jefferson,tjefferson@monticello.com,202-333-3333,"
+"CASH,ADD,300001,3,Cash donation to celebrate signing,10000.00,07/04/1776,Y,1002,"
+"PROPERTY,ADD,300002,3,Tri corner hat,100.0,07/04/1777,Y,N,"
+"PROPERTY,ADD,300003,3,Book of quotes,500.0,01/01/1800,Y,N,"
